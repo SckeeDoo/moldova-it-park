@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/it-park/style/images/companies/atic-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/it-park/style/images/companies/microsoft-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/it-park/style/images/companies/modlcel-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/it-park/style/images/companies/simpals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/it-park/onepage.html" afterPath="$PROJECT_DIR$/template/it-park/onepage.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +23,8 @@
       <file leaf-file-name="onepage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/it-park/onepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="856">
-              <caret line="553" column="44" lean-forward="true" selection-start-line="553" selection-start-column="44" selection-end-line="553" selection-end-column="44" />
+            <state relative-caret-position="495">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -382,12 +376,12 @@
       <workItem from="1513941351137" duration="396000" />
       <workItem from="1513941956266" duration="7788000" />
       <workItem from="1514884252505" duration="227000" />
-      <workItem from="1514897704989" duration="8969000" />
+      <workItem from="1514897704989" duration="9730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19189000" />
+    <option name="totallyTimeSpent" value="19950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -698,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/it-park/onepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
-          <caret line="553" column="44" lean-forward="true" selection-start-line="553" selection-start-column="44" selection-end-line="553" selection-end-column="44" />
+        <state relative-caret-position="495">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
